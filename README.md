@@ -12,3 +12,6 @@ Takes a city name and gives the following outputs:
 
 ## Applicaion Looks
 ![demo-weather](https://user-images.githubusercontent.com/53531220/140277597-e02ddb96-639b-4e48-b94b-33eef04a4406.png)
+
+### App Deployed on Heroku:
+https://weatherpro-adaksritiman24.herokuapp.com/
